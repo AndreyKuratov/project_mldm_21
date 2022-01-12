@@ -37,3 +37,50 @@
 []()
 
 
+## Полезные блокноты
+#### Explore and ...
+| Название/ссылка|комментария |
+| ------------- | ------------- |
+|[Explore](https://www.kaggle.com/gpreda/explore-the-rainforest-soundscape)||
+|[Create Image Dataset with W&B](https://www.kaggle.com/ayuraj/rainforest-create-image-dataset-with-w-b)|STFT, MFCC based sptgrm, Log(sptgrm)|
+|[use librosa](https://www.kaggle.com/hamditarek/rainforest-connection-analysis-using-librosa)||
+|[feature-extraction](https://www.kaggle.com/shreyasajal/birdclef-2021-librosa-audio-feature-extraction)||
+|[spectrogram](https://www.kaggle.com/theoviel/spectrogram-generation)||
+|[adversarial](https://www.kaggle.com/tunguz/adversarial-rainforest)||
+|[pytorch-stater](https://www.kaggle.com/gopidurgaprasad/rfcs-audio-detection-pytorch-stater)||
+|[post-process](https://www.kaggle.com/cdeotte/rainforest-post-process-lb-0-970)||
+|[baseline-for-beginners](https://www.kaggle.com/fffrrt/all-in-one-rfcx-baseline-for-beginners)||
+|[]()||
+
+#### Augmentation
+| Название/ссылка|комментария |
+| ------------- | ------------- |
+|[RFCX: Audio Data Augmentation](https://www.kaggle.com/hidehisaarai1213/rfcx-audio-data-augmentation-japanese-english)||
+|[Augmentation](https://www.kaggle.com/duythanhng/rfcx-torchvision-models-augmentation)||
+|[Augmentation](https://www.kaggle.com/gopidurgaprasad/audio-augmentation-albumentations)||
+|[SolSet](https://www.kaggle.com/mehrankazeminia/automl-inference-audio-detection-soliset)||
+|[]()||
+|[]()||
+|[]()||
+
+#### Models
+| Название/ссылка|комментария |
+| ------------- | ------------- |
+|[RFCX: train resnet50](https://www.kaggle.com/yosshi999/rfcx-train-resnet50-with-tpu)||
+|[resnet34](https://www.kaggle.com/khoongweihao/resnet34-more-augmentations-mixup-tta-inference)||
+|[pytorch-lightning](https://www.kaggle.com/jackvial/pytorch-lightning-starter) ||
+|[xgboost fft cuml](https://www.kaggle.com/titericz/0-525-tabular-xgboost-gpu-fft-gpu-cuml-fast)||
+|[Bagging](https://www.kaggle.com/saurabhbagchi/rfcx-bagging-with-different-weights-0-879-score)||
+|[resnet wavenet ensemble](https://www.kaggle.com/aikhmelnytskyy/resnet-wavenet-my-best-single-model-ensemble)||
+|[Mean Teachers](https://www.kaggle.com/reppic/mean-teachers-find-more-birds)||
+|[LogisticRegression](https://www.kaggle.com/titericz/0-309-baseline-logisticregression-using-fft)||
+|[resnet](https://www.kaggle.com/meaninglesslives/rfcx-minimal)||
+|[h](https://www.kaggle.com/kneroma/inference-tpu-rfcx-audio-detection-fast)||
+|[ResNet](https://www.kaggle.com/kneroma/inference-resnest-rfcx-audio-detection)||
+|[ResNet](https://www.kaggle.com/aikhmelnytskyy/resnet-tpu-on-colab-and-kaggle)||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+

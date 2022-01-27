@@ -2,6 +2,19 @@
 
 Проект по курсу [MLDM'21](https://github.com/HSE-LAMBDA/MLDM-2021/blob/main/Exam-project-guidelines.md). Название проекта: [Rainforest Connection Species Audio Detection](https://www.kaggle.com/c/rfcx-species-audio-detection/overview)
 
+
+---
+## Подача результатов
+
+| Название файла| LRAP pub.score | дата| комментарий|
+| ------------- | ------------- | ------------- |------------- |
+|  model_Res18_epoch_30_level_1| 0.52114 | 27.01.22 ||
+
+
+
+
+
+
 ---
 ## Полезные ссылки
 #### Kaggle
